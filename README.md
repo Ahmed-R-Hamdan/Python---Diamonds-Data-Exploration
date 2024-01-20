@@ -1,6 +1,8 @@
 # Python---Diamonds-Data-Exploration
 This project explores a dataset containing prices and attributes for approximately 54,000 round-cut diamonds.
 
+![alt text](https://github.com/Ahmed-R-Hamdan/Python---Diamonds-Data-Exploration/blob/main/image/diamond-anatomy.jpg)
+
 ## Dataset
 
 The data consists of information regarding 54,000 round-cut diamonds, including
